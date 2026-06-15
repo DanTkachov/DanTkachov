@@ -5,10 +5,15 @@ I am Dan. I work on AI, MLOps, and backend software.
 Currently, I'm learning Go to build more robust, faster, and safer backends that serve models to users.
 
 ### Tech Stack
+
 **Languages:** Python, Javascript, Go. Some familiarity with Rust and C.
+
 **Libraries:** Pytorch, Numpy
+
 **AI/ML:** MCP, Vector Search & Embeddings, LLMs, Agentic Workflows, Multimodal AI
+
 **Backend & Systems:** FastAPI, Node.js, Docker, Celery, Redis, Linux
+
 
 ### Previous Works
 
