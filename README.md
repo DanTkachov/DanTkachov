@@ -2,7 +2,7 @@
 
 I am Dan. I work on AI, MLOps, and backend software.
 
-Currently, I'm learning Go so that I can build out backends that serve models to users.
+Currently, I'm learning Go to build more robust, faster, and safer backends that serve models to users.
 
 ### Previous Works
 
