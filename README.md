@@ -14,11 +14,14 @@ Currently, I'm learning Go to build more robust, faster, and safer backends that
 
 **Backend & Systems:** FastAPI, Node.js, Docker, Celery, Redis, Linux
 
+### Active Projects
+ - My flagship project is my TikTok Data Lake & Archive. It's designed to sort through your favorited TikTok videos to easily find which places you want to visit, or which dishes you want to cook. It uses Python, Redis (as a message broker), Celery (for workers and queues), with a vanilla JS, HTML, CSS frontend. It features a distributed architecture that lets it download videos, and use multiple AI's to transcribe, run OCR, and auto-tag them. Users can also manually apply tags, and search for specific videos using a text-based live debounced searchbar. (This project is still in progress, as I constantly want more features)
 
 ### Previous Works
+ - I created a Go port of Karpathy's MicroGPT, which you [find here](https://github.com/DanTkachov/MicroGPT-Go-Port)
 
- - My flagship project is my TikTok Data Lake & Archive. It's designed to sort through your favorited TikTok videos to easily find which places you want to visit, or which dishes you want to cook. It uses Python, Redis (as a message broker), Celery (for workers and queues), with a vanilla JS, HTML, CSS frontend. It features a distributed architecture that lets it download videos, and use multiple AI's to transcribe, run OCR, and auto-tag them. Users can also manually apply tags, and search for specific videos using a text-based live debounced searchbar. (This project is still in progress, as I constantly want more features)
  - I've created MCP servers. One of them creates and edits powerpoint presentations. Another one organizes my digital library into folders on my behalf.
+   
  - I've programmed RL agents for poker and other games
 
 ### Contact Me
